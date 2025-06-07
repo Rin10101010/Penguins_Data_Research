@@ -1,2 +1,4 @@
 # Penguins_Data_Research
 对帕默群岛上企鹅样本的相关变量进行可视化，从而探索和分析种类、性别、所在岛屿等因素，与企鹅的身体属性，包括体重、嘴峰长度和深度、鳍的长度之间的关系。
+
+https://github.com/Rin10101010/Penguins_Data_Research/blob/main/Penguins_visualization.html
