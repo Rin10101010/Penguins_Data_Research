@@ -31,11 +31,14 @@
 ## 可视化
 1. 种群构成的比例扇形图
 2. 多因素对比的分布直方图
-4. 带线性回归线的散点图矩阵
+3. 带线性回归线的散点图矩阵
 
 ## 技术支持
 - Pandas进行数据清洗和转换
 - Seaborn构建可视化图表
 - Jupyter Notebook完成交互分析
-  
+### 文件
+penguins.csv:原始数据集
+Penguins_visualization.ipynb:数据清洗与分析
+Penguins_visualization.html:可视化报告
 <a href="https://rin10101010.github.io/Penguins_Data_Research/Penguins_visualization.html">点击可查看完整可视化报告</a>
